@@ -119,7 +119,7 @@ This dataset originates from a large Indian retail chain and contains **550K+ hi
 
 ---
 
-# 🧮 SQL Analysis (with One-Line Business Insights)
+# 🧮 SQL Analysis (with Business Insights on each query performed)
 
 ### ✅ 1. **Data Profiling**
 *Insight:* Data is rich, complete, and robust for demographic + transactional analysis.
@@ -154,7 +154,7 @@ This dataset originates from a large Indian retail chain and contains **550K+ hi
 ---
 
 # 📊 Retail Insights Dashboard  
-### Python Visualization Panels (Tableau-Style Layout)
+### Python Visualization Panels 
 
 ---
 
